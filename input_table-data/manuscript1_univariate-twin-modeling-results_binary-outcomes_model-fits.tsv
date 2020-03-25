@@ -1,0 +1,11 @@
+varGroup	depVar	varNameShort	base	H1t	H2t	H3t	H4t	H1c	H2c	H3c	H4c	age	sex	statNameShort
+AD	major depressive disorder	major depression	NC	2.87	0.61	1.11	4.65	0.59	0.06	3.74	27.14^{super b}	0.45	3.41	difLL_signi
+AD	agoraphobia	agoraphobia	NC	1.72	1.09	NC	NC	0.66	-0.00	0.00	NC	0.09	0.00	difLL_signi
+AD	depressive episodes	depressive episodes	NC	2.89	0.69	0.89	4.59	0.37	0.00	3.98	26.90^{super b}	0.60	3.28	difLL_signi
+AD	panic attack	panic attack	NC	1.80	1.13	0.64	0.03	0.73	2.01	5.90	17.42^{super a}	0.62	0.02	difLL_signi
+AD	panic disorder	panic disorder	NC	8.42	0.26	2.36	0.01	0.22	0.00	2.45	2.83	0.98	0.00	difLL_signi
+AD	social anxiety	social anxiety	NC	2.95	4.73	1.29	0.01	3.83	0.05	4.24	23.20^{super b}	1.43	0.01	difLL_signi
+SU	alcohol use	alcohol use	NC	6.44	9.24^{super a}	2.10	0.01	1.78	4.11	2.54	113.58^{super b}	5.39	0.00	difLL_signi
+SU	drug use ever	any illegal substance or misuse of prescription drug	NC	6.02	2.89	2.65	0.02	2.74	0.67	20.22^{super b}	167.30^{super b}	12.90^{super b}	0.02	difLL_signi
+SU	cannabis use ever	use of cannabis	NC	5.81	1.79	1.61	0.06	5.29	0.87	16.66^{super b}	104.91^{super b}	10.04^{super a}	0.07	difLL_signi
+SU	tobacco use ever	tobacco use	NC	0.43	1.17	2.83	0.03	1.97	1.43	3.47	128.77^{super b}	16.35^{super b}	0.07	difLL_signi

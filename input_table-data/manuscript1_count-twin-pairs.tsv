@@ -1,0 +1,11 @@
+varGroup	depVar	N_twinNonMissDepVar	twinCPair_MZ_0_0	twinCPair_MZ_0_1	twinCPair_MZ_1_0	twinCPair_MZ_1_1	twinCPair_DZ_0_0	twinCPair_DZ_0_1	twinCPair_DZ_1_0	twinCPair_DZ_1_1	sum_completePairs
+AD	major depressive disorder	2132	258	46	39	27	328	67	60	20	845
+AD	agoraphobia	2132	361	6	3	0	467	4	4	0	845
+AD	depressive episodes	2132	252	49	40	29	324	69	61	21	845
+AD	panic attack	2132	283	33	35	19	362	55	49	9	845
+AD	panic disorder	2132	355	8	6	1	447	11	17	0	845
+AD	social anxiety	2132	275	39	34	22	341	55	63	16	845
+SU	alcohol use	2132	41	24	32	273	29	43	35	368	845
+SU	drug use ever	2132	131	44	32	163	133	89	79	174	845
+SU	cannabis use ever	1663	117	28	22	74	138	75	59	83	596
+SU	tobacco use ever	2132	103	49	43	175	130	76	80	189	845

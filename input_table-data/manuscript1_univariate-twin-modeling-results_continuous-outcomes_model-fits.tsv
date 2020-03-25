@@ -1,0 +1,5 @@
+varGroup	depVar	varNameShort	base	H1m	H2m	H3m	H4m	H1v	H2v	H3v	H4v	H1c	H2c	H3c	H4c	age	sex	statNameShort
+AD	AD-IRT	IRT score of affective disorders	NC	5.22	6.49	0.02	2.96	2.66	0.50	0.16	16.75^{super b}	1.07	0.58	14.19^{super b}	38.22^{super b}	2.26	1.75	difLL_signi
+PSYCH6	IRT score	19+	NC	1.29	1.67	3.54	0.00	0.81	0.79	0.19	0.01	0.22	1.85	6.71^{super a}	13.46^{super b}	8.14^{super a}	0.00	difLL_signi
+SOMA6	IRT score	19+	NC	5.09	5.11	4.40	-0.00	1.72	0.01	0.75	0.02	4.46	0.12	10.60^{super a}	15.01^{super b}	13.47^{super b}	0.00	difLL_signi
+SU	SU-IRT	IRT score of substance use disorders	NC	1.33	1.50	2.97	0.03	0.97	0.28	0.07	0.15	3.94	3.09	16.32^{super b}	111.96^{super b}	18.77^{super b}	0.13	difLL_signi
