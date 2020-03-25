@@ -1,0 +1,70 @@
+phenotype	phenotype.order.num	var.label	sex.group	count_p_lower_threshold1.si	count_p_lower_threshold2.si	count_p_lower_threshold3.si	count_p_lower_threshold4.si	count_p_lower_threshold5.si	count_p_lower_threshold1.ai	count_p_lower_threshold2.ai	count_p_lower_threshold3.ai	count_p_lower_threshold4.ai	count_p_lower_threshold5.ai	count_p_lower_threshold1.cpd	count_p_lower_threshold2.cpd	count_p_lower_threshold3.cpd	count_p_lower_threshold4.cpd	count_p_lower_threshold5.cpd	count_p_lower_threshold1.sc	count_p_lower_threshold2.sc	count_p_lower_threshold3.sc	count_p_lower_threshold4.sc	count_p_lower_threshold5.sc	count_p_lower_threshold1.dpw	count_p_lower_threshold2.dpw	count_p_lower_threshold3.dpw	count_p_lower_threshold4.dpw	count_p_lower_threshold5.dpw
+everDrug1	1	Ever used cocaine	allSexes	8	6	6	1	0	8	3	0	0	0	8	0	0	0	0	8	0	0	0	0	8	6	5	3	0
+everDrug1	1	Ever used cocaine	females	8	6	5	1	0	8	1	0	0	0	8	0	0	0	0	8	4	0	0	0	8	3	0	0	0
+everDrug1	1	Ever used cocaine	males	8	6	5	1	0	8	1	0	0	0	8	0	0	0	0	8	4	0	0	0	8	3	0	0	0
+everDrug2	2	Ever used amphetamine	allSexes	8	7	6	5	4	8	5	2	0	0	8	0	0	0	0	8	0	0	0	0	8	5	1	1	0
+everDrug2	2	Ever used amphetamine	females	8	6	5	5	4	8	4	1	0	0	8	0	0	0	0	8	0	0	0	0	8	5	0	0	0
+everDrug2	2	Ever used amphetamine	males	8	6	5	5	4	8	4	1	0	0	8	0	0	0	0	8	0	0	0	0	8	5	0	0	0
+everDrug3	3	Ever used inhalants	allSexes	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0
+everDrug3	3	Ever used inhalants	females	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0
+everDrug3	3	Ever used inhalants	males	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0
+everDrug4	4	Ever used sedatives	allSexes	8	5	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0	8	5	3	0	0
+everDrug4	4	Ever used sedatives	females	8	2	1	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	5	2	0	0
+everDrug4	4	Ever used sedatives	males	8	2	1	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	5	2	0	0
+everDrug5	5	Ever used hallucinogens	allSexes	8	6	4	3	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0	8	5	1	0	0
+everDrug5	5	Ever used hallucinogens	females	8	6	5	5	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	3	0	0	0
+everDrug5	5	Ever used hallucinogens	males	8	6	5	5	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	3	0	0	0
+everDrug6	6	Ever used opioids	allSexes	8	5	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	2	0	0	0
+everDrug6	6	Ever used opioids	females	8	6	5	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	5	1	0	0
+everDrug6	6	Ever used opioids	males	8	6	5	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	5	1	0	0
+everDrug7	7	Ever used ecstasy	allSexes	8	7	6	6	5	8	4	0	0	0	8	0	0	0	0	8	0	0	0	0	8	7	5	5	3
+everDrug7	7	Ever used ecstasy	females	8	6	6	5	5	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	7	5	5	0
+everDrug7	7	Ever used ecstasy	males	8	6	6	5	5	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	7	5	5	0
+everDrug8	8	Ever used prescription pain killers	allSexes	8	4	0	0	0	8	2	0	0	0	8	1	0	0	0	8	2	1	0	0	8	1	0	0	0
+everDrug8	8	Ever used prescription pain killers	females	8	7	1	0	0	8	2	0	0	0	8	3	0	0	0	8	2	0	0	0	8	2	0	0	0
+everDrug8	8	Ever used prescription pain killers	males	8	7	1	0	0	8	2	0	0	0	8	3	0	0	0	8	2	0	0	0	8	2	0	0	0
+everDrug9	9	Ever used prescription stimulants	allSexes	8	2	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+everDrug9	9	Ever used prescription stimulants	females	8	2	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+everDrug9	9	Ever used prescription stimulants	males	8	2	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_cannabis_ever	10	Ever used cannabis	allSexes	8	7	6	6	1	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	5	1	0	0
+SU_cannabis_ever	10	Ever used cannabis	females	8	7	6	1	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0
+SU_cannabis_ever	10	Ever used cannabis	males	8	6	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0	8	2	0	0	0
+SU_cannabis_onset	11	Age at onset of cannabis use	allSexes	8	0	0	0	0	8	0	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_cannabis_onset	11	Age at onset of cannabis use	females	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_cannabis_onset	11	Age at onset of cannabis use	males	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM4alcoholAbuse_ori	12	Alcohol abuse	allSexes	8	7	1	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM4alcoholAbuse_ori	12	Alcohol abuse	females	8	6	0	0	0	8	0	0	0	0	8	0	0	0	0	8	5	0	0	0	8	0	0	0	0
+SU_DSM4alcoholAbuse_ori	12	Alcohol abuse	males	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM4alcoholDepend_ori	13	Alcohol dependence	allSexes	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM4alcoholDepend_ori	13	Alcohol dependence	females	8	3	0	0	0	8	0	0	0	0	8	0	0	0	0	8	4	0	0	0	8	1	0	0	0
+SU_DSM4alcoholDepend_ori	13	Alcohol dependence	males	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0
+SU_DSM5alcoholUD_ori	14	DSM5 AUD 4 point scale	allSexes	8	6	5	1	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	6	0	0	0
+SU_DSM5alcoholUD_ori	14	DSM5 AUD 4 point scale	females	8	6	0	0	0	8	4	0	0	0	8	0	0	0	0	8	4	1	0	0	8	1	0	0	0
+SU_DSM5alcoholUD_ori	14	DSM5 AUD 4 point scale	males	8	5	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	4	0	0	0
+SU_DSM5alcoholUD_0or1vs2or3	15	DSM5 AUD 0 1 vs 2 3	allSexes	8	6	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	8	0	0	0
+SU_DSM5alcoholUD_0or1vs2or3	15	DSM5 AUD 0 1 vs 2 3	females	8	1	0	0	0	8	1	0	0	0	8	0	0	0	0	8	4	0	0	0	8	1	0	0	0
+SU_DSM5alcoholUD_0or1vs2or3	15	DSM5 AUD 0 1 vs 2 3	males	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	6	0	0	0
+SU_DSM4cannabisAbuse_ori	16	Cannabis abuse	allSexes	8	0	0	0	0	8	1	0	0	0	8	2	0	0	0	8	0	0	0	0	8	3	0	0	0
+SU_DSM4cannabisAbuse_ori	16	Cannabis abuse	females	8	3	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM4cannabisAbuse_ori	16	Cannabis abuse	males	8	0	0	0	0	8	1	0	0	0	8	3	0	0	0	8	0	0	0	0	8	2	0	0	0
+SU_cannabis_abuse_onset	17	Age at onset of cannabis abuse	allSexes	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	2	0	0	0
+SU_cannabis_abuse_onset	17	Age at onset of cannabis abuse	females	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0
+SU_cannabis_abuse_onset	17	Age at onset of cannabis abuse	males	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0
+SU_DSM4cannabisDepend_ori	18	Cannabis dependence	allSexes	8	5	0	0	0	8	1	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM4cannabisDepend_ori	18	Cannabis dependence	females	8	5	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0
+SU_DSM4cannabisDepend_ori	18	Cannabis dependence	males	8	0	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_cannabis_dependence_onset	19	Age at onset of cannabis dependence	allSexes	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0
+SU_cannabis_dependence_onset	19	Age at onset of cannabis dependence	females	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0
+SU_cannabis_dependence_onset	19	Age at onset of cannabis dependence	males	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0
+SU_DSM5cannabisUD_ori	20	DSM5 CUD 4 point scale	allSexes	8	5	0	0	0	8	4	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM5cannabisUD_ori	20	DSM5 CUD 4 point scale	females	8	6	5	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM5cannabisUD_ori	20	DSM5 CUD 4 point scale	males	8	0	0	0	0	8	1	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM5cannabisUD_0or1vs2or3	21	DSM5 CUD 0 1 vs 2 3	allSexes	8	5	1	0	0	8	4	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM5cannabisUD_0or1vs2or3	21	DSM5 CUD 0 1 vs 2 3	females	8	5	4	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_DSM5cannabisUD_0or1vs2or3	21	DSM5 CUD 0 1 vs 2 3	males	8	0	0	0	0	8	2	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_cannabis_use_disorder_onset	22	Age at onset of CUD	allSexes	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	2	0	0	0
+SU_cannabis_use_disorder_onset	22	Age at onset of CUD	females	8	0	0	0	0	8	0	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0
+SU_cannabis_use_disorder_onset	22	Age at onset of CUD	males	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0	8	1	0	0	0
+Numb_target_pheno_predicted	23	Number of target phenotypes predicted	allSexes	22	16	8	6	3	22	12	1	0	0	22	6	0	0	0	22	2	1	0	0	22	14	6	3	1
+Numb_target_pheno_predicted	23	Number of target phenotypes predicted	females	22	17	10	5	2	22	8	1	0	0	22	2	0	0	0	22	8	1	0	0	22	13	3	1	0
+Numb_target_pheno_predicted	23	Number of target phenotypes predicted	males	22	12	7	4	2	22	9	1	0	0	22	6	0	0	0	22	4	0	0	0	22	14	3	1	0
