@@ -1,0 +1,49 @@
+phenotype	phenotype.order.num	var.label	sex.group	count_p_lower_threshold1.si	count_p_lower_threshold2.si	count_p_lower_threshold3.si	count_p_lower_threshold4.si	count_p_lower_threshold5.si	count_p_lower_threshold1.ai	count_p_lower_threshold2.ai	count_p_lower_threshold3.ai	count_p_lower_threshold4.ai	count_p_lower_threshold5.ai	count_p_lower_threshold1.cpd	count_p_lower_threshold2.cpd	count_p_lower_threshold3.cpd	count_p_lower_threshold4.cpd	count_p_lower_threshold5.cpd	count_p_lower_threshold1.sc	count_p_lower_threshold2.sc	count_p_lower_threshold3.sc	count_p_lower_threshold4.sc	count_p_lower_threshold5.sc	count_p_lower_threshold1.dpw	count_p_lower_threshold2.dpw	count_p_lower_threshold3.dpw	count_p_lower_threshold4.dpw	count_p_lower_threshold5.dpw
+GSCAN_Q2_recode	1	Smoking initiation	allSexes	8	8	8	8	8	8	6	6	6	6	8	2	0	0	0	8	0	0	0	0	8	7	6	5	0
+GSCAN_Q2_recode	1	Smoking initiation	females	8	8	8	8	7	8	7	6	5	2	8	0	0	0	0	8	0	0	0	0	8	7	0	0	0
+GSCAN_Q2_recode	1	Smoking initiation	males	8	8	7	7	7	8	6	5	4	4	8	5	0	0	0	8	0	0	0	0	8	5	3	1	0
+GSCAN_Q4	2	Age at starting regular smoking	allSexes	8	6	0	0	0	8	4	0	0	0	8	0	0	0	0	8	0	0	0	0	8	3	0	0	0
+GSCAN_Q4	2	Age at starting regular smoking	females	8	1	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	2	0	0	0
+GSCAN_Q4	2	Age at starting regular smoking	males	8	1	0	0	0	8	1	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0
+GSCAN_Q1	3	Cigarettes per day	allSexes	8	7	7	6	3	8	5	3	0	0	8	8	8	8	6	8	1	0	0	0	8	0	0	0	0
+GSCAN_Q1	3	Cigarettes per day	females	8	7	6	6	2	8	6	4	1	0	8	8	8	6	5	8	3	0	0	0	8	0	0	0	0
+GSCAN_Q1	3	Cigarettes per day	males	8	4	0	0	0	8	1	0	0	0	8	7	6	3	0	8	0	0	0	0	8	0	0	0	0
+GSCAN_Q3_recode	4	Smoking cessation	allSexes	8	7	5	2	1	8	0	0	0	0	8	4	0	0	0	8	2	0	0	0	8	0	0	0	0
+GSCAN_Q3_recode	4	Smoking cessation	females	8	7	1	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+GSCAN_Q3_recode	4	Smoking cessation	males	8	3	1	1	0	8	0	0	0	0	8	4	0	0	0	8	2	0	0	0	8	0	0	0	0
+GSCAN_Q6_recode	5	Drinkers versus non-drinkers	allSexes	8	4	0	0	0	8	2	0	0	0	8	4	0	0	0	8	0	0	0	0	8	7	6	6	6
+GSCAN_Q6_recode	5	Drinkers versus non-drinkers	females	8	0	0	0	0	8	1	0	0	0	8	6	2	0	0	8	6	0	0	0	8	7	6	6	1
+GSCAN_Q6_recode	5	Drinkers versus non-drinkers	males	8	3	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	6	3	3	0
+GSCAN_Q5_Drinks_per_week	6	Drinks per week in active drinkers	allSexes	8	8	7	7	7	8	8	3	1	0	8	0	0	0	0	8	1	0	0	0	8	8	8	8	7
+GSCAN_Q5_Drinks_per_week	6	Drinks per week in active drinkers	females	8	6	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	8	8	8	7	7
+GSCAN_Q5_Drinks_per_week	6	Drinks per week in active drinkers	males	8	8	8	7	3	8	7	1	1	0	8	0	0	0	0	8	0	0	0	0	8	8	7	7	6
+alcdep4	7	DSM-IV alcohol dependence	allSexes	8	8	8	8	6	8	5	3	0	0	8	0	0	0	0	8	0	0	0	0	8	8	8	8	8
+alcdep4	7	DSM-IV alcohol dependence	females	8	8	8	8	6	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	8	8	8	8
+alcdep4	7	DSM-IV alcohol dependence	males	8	6	3	0	0	8	4	3	0	0	8	0	0	0	0	8	0	0	0	0	8	8	6	6	2
+nicdep4	8	DSM-IV nicotine dependence	allSexes	8	8	8	8	8	8	6	6	5	5	8	8	7	6	5	8	7	2	0	0	8	2	0	0	0
+nicdep4	8	DSM-IV nicotine dependence	females	8	8	8	8	8	8	7	5	4	4	8	8	6	3	1	8	4	0	0	0	8	0	0	0	0
+nicdep4	8	DSM-IV nicotine dependence	males	8	8	8	8	7	8	6	3	2	0	8	8	5	5	4	8	5	2	1	0	8	4	3	0	0
+ftnd_dep	9	FTND-based nicotine dependence	allSexes	8	8	8	8	8	8	7	6	5	5	8	8	8	8	8	8	8	8	7	6	8	2	0	0	0
+ftnd_dep	9	FTND-based nicotine dependence	females	8	8	7	7	7	8	5	5	4	3	8	8	8	8	8	8	5	4	2	1	8	0	0	0	0
+ftnd_dep	9	FTND-based nicotine dependence	males	8	8	8	8	7	8	7	6	5	5	8	8	8	8	7	8	8	6	4	3	8	0	0	0	0
+dsmiv_conductdx	10	DSM-IV conduct disorder	allSexes	8	8	5	5	3	8	6	5	5	1	8	4	0	0	0	8	0	0	0	0	8	0	0	0	0
+dsmiv_conductdx	10	DSM-IV conduct disorder	females	8	6	0	0	0	8	5	1	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+dsmiv_conductdx	10	DSM-IV conduct disorder	males	8	6	5	3	0	8	6	1	0	0	8	6	0	0	0	8	0	0	0	0	8	0	0	0	0
+aspddx4	11	DSM-IV antisocial personality disorder	allSexes	8	7	2	1	0	8	6	5	5	1	8	3	0	0	0	8	5	0	0	0	8	0	0	0	0
+aspddx4	11	DSM-IV antisocial personality disorder	females	8	8	0	0	0	8	5	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+aspddx4	11	DSM-IV antisocial personality disorder	males	8	4	0	0	0	8	6	5	0	0	8	3	0	0	0	8	2	0	0	0	8	0	0	0	0
+depdx	12	DSM-IV depressive disorder	allSexes	8	5	0	0	0	8	1	0	0	0	8	7	1	0	0	8	0	0	0	0	8	0	0	0	0
+depdx	12	DSM-IV depressive disorder	females	8	4	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+depdx	12	DSM-IV depressive disorder	males	8	0	0	0	0	8	0	0	0	0	8	8	2	1	0	8	0	0	0	0	8	0	0	0	0
+panic4	13	DSM-IV panic disorder	allSexes	8	7	0	0	0	8	0	0	0	0	8	2	0	0	0	8	4	0	0	0	8	0	0	0	0
+panic4	13	DSM-IV panic disorder	females	8	7	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+panic4	13	DSM-IV panic disorder	males	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0	8	2	0	0	0	8	0	0	0	0
+sp_dsm4	14	DSM-IV social phobia	allSexes	8	6	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0
+sp_dsm4	14	DSM-IV social phobia	females	8	8	3	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+sp_dsm4	14	DSM-IV social phobia	males	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+mania_scrn	15	Mania screen	allSexes	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+mania_scrn	15	Mania screen	females	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0
+mania_scrn	15	Mania screen	males	8	4	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	4	3	0	0
+Numb_target_pheno_predicted	16	Number of target phenotypes predicted	allSexes	15	14	9	9	8	15	11	8	6	5	15	11	4	3	3	15	7	2	1	1	15	7	4	4	3
+Numb_target_pheno_predicted	16	Number of target phenotypes predicted	females	15	13	7	5	5	15	10	5	4	3	15	4	4	3	3	15	4	1	1	1	15	5	3	3	3
+Numb_target_pheno_predicted	16	Number of target phenotypes predicted	males	15	12	7	6	4	15	9	7	4	2	15	9	4	4	2	15	6	2	2	1	15	6	6	4	2

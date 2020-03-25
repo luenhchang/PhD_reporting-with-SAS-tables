@@ -1,0 +1,17 @@
+phenotype	count_p_lower_threshold1.si	count_p_lower_threshold2.si	count_p_lower_threshold3.si	count_p_lower_threshold4.si	count_p_lower_threshold5.si	count_p_lower_threshold1.ai	count_p_lower_threshold2.ai	count_p_lower_threshold3.ai	count_p_lower_threshold4.ai	count_p_lower_threshold5.ai	count_p_lower_threshold1.cpd	count_p_lower_threshold2.cpd	count_p_lower_threshold3.cpd	count_p_lower_threshold4.cpd	count_p_lower_threshold5.cpd	count_p_lower_threshold1.sc	count_p_lower_threshold2.sc	count_p_lower_threshold3.sc	count_p_lower_threshold4.sc	count_p_lower_threshold5.sc	count_p_lower_threshold1.dpw	count_p_lower_threshold2.dpw	count_p_lower_threshold3.dpw	count_p_lower_threshold4.dpw	count_p_lower_threshold5.dpw	var.label	order_num
+GSCAN_Q2_recode	8	7	6	6	6	8	4	0	0	0	8	5	0	0	0	8	0	0	0	0	8	4	1	0	0	Smoking initiation	1
+GSCAN_Q4	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	Age at starting regular smoking	2
+GSCAN_Q1	8	1	0	0	0	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	Cigarettes per day	3
+GSCAN_Q3_recode	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	1	0	0	0	8	0	0	0	0	Smoking cessation	4
+GSCAN_Q6_recode	8	1	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	Drinkers versus non-drinkers	5
+GSCAN_Q5_Drinks_per_week	8	8	8	8	8	8	8	7	1	1	8	0	0	0	0	8	7	0	0	0	8	8	8	7	7	Drinks per week in active drinkers	6
+alcdep4	8	1	0	0	0	8	4	3	0	0	8	0	0	0	0	8	2	0	0	0	8	5	0	0	0	DSM4 alcohol dependence	7
+nicdep4	8	7	5	5	2	8	0	0	0	0	8	5	3	1	0	8	4	1	0	0	8	4	1	0	0	DSM4 nicotine dependence	8
+ftnd_dep	8	8	7	5	5	8	6	4	0	0	8	7	1	0	0	8	4	3	1	0	8	0	0	0	0	FTND sum score	9
+aspddx4	8	4	0	0	0	8	6	5	0	0	8	6	0	0	0	8	3	0	0	0	8	0	0	0	0	DSM4 antisocial personality disorder	10
+depdx	8	0	0	0	0	8	0	0	0	0	8	2	0	0	0	8	0	0	0	0	8	0	0	0	0	Depressive disorder	11
+dsmiv_conductdx	8	6	5	5	2	8	6	1	0	0	8	6	5	1	0	8	0	0	0	0	8	1	0	0	0	DSM4 conduct disorder	12
+mania_scrn	8	4	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	6	3	0	0	Mania screen	13
+panic4	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	DSM4 panic disorder	14
+sp_dsm4	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	8	0	0	0	0	DSM4 social phobia	15
+Numb_target_pheno_predicted	15	10	5	5	5	15	8	5	1	1	15	6	3	2	0	15	6	2	1	0	15	6	4	1	1	Number of target phenotypes predicted	16
