@@ -4,6 +4,7 @@ dir.local.main <- "D:/Now/library_genetics_epidemiology/"
 dir.chapter2 <- paste0(dir.local.main,'slave_NU/NU_data_processed_exports/')
 dir.chapter3 <- paste0(dir.local.main,'GWAS/PRS_UKB_201711/')
 dir.chapter4 <- paste0(dir.local.main,'GWAS/PRS_UKB_201711/')
+dir.chapter5 <- paste0(dir.local.main,"GWAS/MR_ICC_GSCAN_201806/")
 
 dir.git.input <- "D:/git/PhD_reporting-with-SAS-tables_thesis-supplementary-tables/input_table-data/"
 
@@ -109,9 +110,52 @@ for (i in 1:length(file.path.s4.source)){
   file.copy(source.file.path,destin.file.path, overwrite = TRUE)
 }
 
+#---------------------------------------------------------------------
+# Copy supplementary table data files from thesis chapter 5
+#---------------------------------------------------------------------
+file.s5_1.source <- paste0(dir.chapter5,"LD-score-correlation/output/result-tabulated/","LDSC-SNP-heritability_sample-size-prevalence.tsv")
+file.s5_1.destin <- paste0(dir.git.input,basename(file.s5_1.source))   
 
+file.s5_2.source <- paste0(dir.chapter5,"LD-score-correlation/output/result-tabulated/","LDSC-genetic-correlations.tsv")
+file.s5_2.destin <- paste0(dir.git.input,basename(file.s5_2.source))   
 
+file.s5_3.source <- paste0(dir.chapter5,"instrument-strength/","proportion-MR-exposure-variance-explained-by-clumped-SNPs.tsv")
+file.s5_3.destin <- paste0(dir.git.input,basename(file.s5_3.source))   
 
+file.s5_4.source <- paste0(dir.chapter5,"two-sample-MR/result-tabulated/","heterogeneity-test_two-sample-MR-results_sorted.tsv")
+file.s5_4.destin <- paste0(dir.git.input,basename(file.s5_4.source))   
+
+file.s5_5.source <- paste0(dir.chapter5,"MR-PRESSO/result-tabulated/","MR-PRESSO-global-test-results.tsv")
+file.s5_5.destin <- paste0(dir.git.input,basename(file.s5_5.source))   
+
+file.s5_6.source <- paste0(dir.chapter5,"MR-PRESSO/result-tabulated/","leave-one-SNP-out-analysis-results_association-GSCAN-smoking-initiation_on_UKB-caffeine-consumed-per-day.tsv")
+file.s5_6.destin <- paste0(dir.git.input,basename(file.s5_6.source))   
+
+file.s5_7.source <- paste0(dir.chapter5,"observational-associations/","phenotypic-association-results_outcomes-predictors-matched-MR-outcomes-exposures.tsv")
+file.s5_7.destin <- paste0(dir.git.input,basename(file.s5_7.source))   
+
+file.path.s5.source <- c(file.s5_1.source,
+                         file.s5_2.source,
+                         file.s5_3.source,
+                         file.s5_4.source,
+                         file.s5_5.source,
+                         file.s5_6.source,
+                         file.s5_7.source)
+
+file.path.s5.destin <- c(file.s5_1.destin,
+                         file.s5_2.destin,
+                         file.s5_3.destin,
+                         file.s5_4.destin,
+                         file.s5_5.destin,
+                         file.s5_6.destin,
+                         file.s5_7.destin)
+
+for (i in 1:length(file.path.s5.source)){
+  source.file.path <- file.path.s5.source[i]
+  destin.file.path <- file.path.s5.destin[i]
+  print(paste0("Copying file from ", source.file.path, " to ", destin.file.path))
+  file.copy(source.file.path,destin.file.path, overwrite = TRUE)
+}
 
 
 
