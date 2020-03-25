@@ -1,11 +1,25 @@
+##########################################################################################
+# filename: copy_table-data-files_local-to-git-folder.R
+# Modified from: 
+# program author: Chang
+# purpose: Copy supplementary table data files from local folders to a git folder
+# date created: 20200326
+#-----------------------------------------------------------------------------------------
+# CHANGE HISTORY : 
+#-----------------------------------------------------------------------------------------
+# Sys.time()  Update
+#-----------------------------------------------------------------------------------------
+# 2020-03-26 Copied files to the git folder
+#-----------------------------------------------------------------------------------------
 
-# Folder locations
+# Folder locations of input 
 dir.local.main <- "D:/Now/library_genetics_epidemiology/"
 dir.chapter2 <- paste0(dir.local.main,'slave_NU/NU_data_processed_exports/')
 dir.chapter3 <- paste0(dir.local.main,'GWAS/PRS_UKB_201711/')
 dir.chapter4 <- paste0(dir.local.main,'GWAS/PRS_UKB_201711/')
 dir.chapter5 <- paste0(dir.local.main,"GWAS/MR_ICC_GSCAN_201806/")
 
+# Folder locations of output
 dir.git.input <- "D:/git/PhD_reporting-with-SAS-tables_thesis-supplementary-tables/input_table-data/"
 
 #---------------------------------------------------------------------
@@ -157,5 +171,5 @@ for (i in 1:length(file.path.s5.source)){
   file.copy(source.file.path,destin.file.path, overwrite = TRUE)
 }
 
-
+#---------------------------- This is the end of this program-------------------------#
 
