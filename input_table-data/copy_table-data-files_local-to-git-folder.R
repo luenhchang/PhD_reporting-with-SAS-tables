@@ -18,9 +18,12 @@ dir.chapter2 <- paste0(dir.local.main,'slave_NU/NU_data_processed_exports/')
 dir.chapter3 <- paste0(dir.local.main,'GWAS/PRS_UKB_201711/')
 dir.chapter4 <- paste0(dir.local.main,'GWAS/PRS_UKB_201711/')
 dir.chapter5 <- paste0(dir.local.main,"GWAS/MR_ICC_GSCAN_201806/")
+dir.supplementary.tables <- paste0(dir.local.main,"Chang_PhD_thesis/chapter-files/supplementary-tables/")
 
 # Folder locations of output
-dir.git.input <- "D:/git/PhD_reporting-with-SAS-tables_thesis-supplementary-tables/input_table-data/"
+dir.git.main <- "D:/git/PhD_reporting-with-SAS-tables_thesis-supplementary-tables/"
+dir.git.input <- paste0(dir.git.main,"input_table-data/")
+dir.git.output <- paste0(dir.git.main,"output/") 
 
 #---------------------------------------------------------------------
 # Copy supplementary table data files from thesis chapter 2
@@ -170,6 +173,13 @@ for (i in 1:length(file.path.s5.source)){
   print(paste0("Copying file from ", source.file.path, " to ", destin.file.path))
   file.copy(source.file.path,destin.file.path, overwrite = TRUE)
 }
+
+#---------------------------------------------------------------------
+# Copy supplementary table file RTF from thesis folder to git folder
+#---------------------------------------------------------------------
+file.subTables.source <- paste0(dir.supplementary.tables,"PhD-thesis_supplementary-tables_2020-03-24.rtf")
+file.subTables.destin <- paste0(dir.git.output,basename(file.subTables.source))   
+file.copy(file.subTables.source,file.subTables.destin,overwrite = TRUE)
 
 #---------------------------- This is the end of this program-------------------------#
 
