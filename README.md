@@ -1,6 +1,6 @@
 # Reporting with SAS tables- An example of creating a RTF file with a table of contents and tables using SAS base programming
 
-### Run the script in the following order
+### Run the following scripts in the order
 
 `scripts_master/NU_001_global_setting.sas`
 
