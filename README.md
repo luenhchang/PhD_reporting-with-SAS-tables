@@ -4,7 +4,7 @@
 
 `scripts_master/NU_001_global_setting.sas`
 
-This file brings SAS macros to the global environment
+This file brings [SAS macros](https://github.com/luenhchang/SAS_macros) to the global environment
 
 ---
 
