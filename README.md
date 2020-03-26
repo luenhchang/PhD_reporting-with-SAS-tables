@@ -1,2 +1,6 @@
-# PhD_reporting-with-SAS-tables
-SAS scripts to create a table of content and tables
+# PhD reporting with SAS tables
+
+This repository uses script files from the master script sub-repo
+
+Run the script in the following order
+ 
