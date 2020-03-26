@@ -18,7 +18,9 @@ dir.chapter2 <- paste0(dir.local.main,'slave_NU/NU_data_processed_exports/')
 dir.chapter3 <- paste0(dir.local.main,'GWAS/PRS_UKB_201711/')
 dir.chapter4 <- paste0(dir.local.main,'GWAS/PRS_UKB_201711/')
 dir.chapter5 <- paste0(dir.local.main,"GWAS/MR_ICC_GSCAN_201806/")
-dir.supplementary.tables <- paste0(dir.local.main,"Chang_PhD_thesis/chapter-files/supplementary-tables/")
+
+dir.thesis <- paste0(dir.local.main,"Chang_PhD_thesis/chapter-files/")
+dir.supplementary.tables <- paste0(dir.thesis,"supplementary-tables/")
 
 # Folder locations of output
 dir.git.main <- "D:/git/PhD_reporting-with-SAS-tables_thesis-supplementary-tables/"
@@ -180,6 +182,10 @@ for (i in 1:length(file.path.s5.source)){
 file.subTables.source <- paste0(dir.supplementary.tables,"PhD-thesis_supplementary-tables_2020-03-24.rtf")
 file.subTables.destin <- paste0(dir.git.output,basename(file.subTables.source))   
 file.copy(file.subTables.source,file.subTables.destin,overwrite = TRUE)
+
+file.subTables.PDF.source <- paste0(dir.thesis,"PhD-thesis_10_supplementary-tables.pdf")
+file.subTables.PDF.destin <- paste0(dir.git.output,basename(file.subTables.PDF.source))   
+file.copy(file.subTables.PDF.source,file.subTables.PDF.destin,overwrite = TRUE)
 
 #---------------------------- This is the end of this program-------------------------#
 
